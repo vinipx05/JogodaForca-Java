@@ -4,7 +4,7 @@ Este projeto é um Jogo da Forca desenvolvido em Java, com o objetivo de pratica
 
 O jogo desafia o usuário a adivinhar uma palavra secreta, letra por letra, dentro de um número limitado de tentativas.
 
-🛠️ Tecnologias Utilizadas
+Tecnologias Utilizadas
 
 Java
 
